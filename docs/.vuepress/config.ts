@@ -6,7 +6,7 @@ import { defineNoteConfig,plumeTheme } from 'vuepress-theme-plume'
 
 
 export default defineUserConfig({
-  base: '/',
+  base: '/nrytex/',
   lang: 'zh-CN',
   locales: {
     '/': {
