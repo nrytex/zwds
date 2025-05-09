@@ -116,7 +116,7 @@ permalink: /notes/1mj0luua/
 
 ## 化权
 
-
+化权就是主变动、竞争、血缘等关系。
 
 
 
